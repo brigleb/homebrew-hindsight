@@ -4,8 +4,8 @@
 class Hindsight < Formula
   desc "Identify the tracks in a DJ set and embed chapter markers"
   homepage "https://github.com/brigleb/setlist-maker"
-  url "https://github.com/brigleb/homebrew-hindsight/releases/download/v0.1.0/hindsight-0.1.0-macos-universal.tar.gz"
-  sha256 "c78158f9d688af239c3ffffe91d330bc06823518101a168a6ea34b6bfc1cc4d0"
+  url "https://github.com/brigleb/homebrew-hindsight/releases/download/v0.1.1/hindsight-0.1.1-macos-universal.tar.gz"
+  sha256 "b59850b168a574f9481e72f291a929715b2d7c7c6d21f0ca5691045c882d391a"
   license "GPL-3.0-or-later"
 
   depends_on :macos
